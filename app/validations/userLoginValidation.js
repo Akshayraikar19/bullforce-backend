@@ -1,5 +1,7 @@
 
+
 const LoginValidationSchema = {  
+
     email: {
         exists: {
             errorMessage: 'email is required'            
